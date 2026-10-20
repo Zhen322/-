@@ -1,0 +1,79 @@
+[
+  {
+    "id": "automotive-content-master-lite",
+    "name": "automotive-content-master-lite",
+    "url": "https://github.com/aierlanjiu/xuemu-creative-skills/blob/main/skills/automotive-content-master-lite/SKILL.md",
+    "raw_url": "https://raw.githubusercontent.com/aierlanjiu/xuemu-creative-skills/main/skills/automotive-content-master-lite/SKILL.md",
+    "sha256": "cc2976e0d54484425e82d37c3162af4a3683a612dceff32ca2d1cfd3ee2926c4",
+    "bytes": 1953,
+    "checked_at": "2026-10-13",
+    "use": "日常技术解释",
+    "adaptation": "默认；现象、机制、影响与条件；不固定五张图"
+  },
+  {
+    "id": "automotive-content-master",
+    "name": "automotive-content-master",
+    "url": "https://github.com/aierlanjiu/xuemu-creative-skills/blob/main/skills/automotive-content-master/SKILL.md",
+    "raw_url": "https://raw.githubusercontent.com/aierlanjiu/xuemu-creative-skills/main/skills/automotive-content-master/SKILL.md",
+    "sha256": "a81762646af06de0de8fde1548fdbef1259a0a51eb5b296117e8e4fe5fb400e5",
+    "bytes": 2026,
+    "checked_at": "2026-10-13",
+    "use": "深度专题",
+    "adaptation": "仅deep；反方条件及证据分层；不导入合成案例"
+  },
+  {
+    "id": "wewrite-write",
+    "name": "wewrite-write",
+    "url": "https://github.com/imraywang/wewrite/blob/main/skills/wewrite-write/SKILL.md",
+    "raw_url": "https://raw.githubusercontent.com/imraywang/wewrite/main/skills/wewrite-write/SKILL.md",
+    "sha256": "bba2561dfe3caa8eb8256e0a6359a0363bc830e87f42b82c9ea2ee07fccc38b3",
+    "bytes": 5212,
+    "checked_at": "2026-10-13",
+    "use": "任务与正文",
+    "adaptation": "适配到现有事实卡与正文节点，不依赖wewrite CLI"
+  },
+  {
+    "id": "wewrite-review",
+    "name": "wewrite-review",
+    "url": "https://github.com/imraywang/wewrite/blob/main/skills/wewrite-review/SKILL.md",
+    "raw_url": "https://raw.githubusercontent.com/imraywang/wewrite/main/skills/wewrite-review/SKILL.md",
+    "sha256": "3abddf765353e62eaaa9aebbe65e897f5f71156c58f18c9664a375a24adc42f7",
+    "bytes": 3992,
+    "checked_at": "2026-10-13",
+    "use": "事实与编辑审核",
+    "adaptation": "定位问题并改后复核，保留两轮上限和待人工审核"
+  },
+  {
+    "id": "wechat-article-writer",
+    "name": "wechat-article-writer",
+    "url": "https://github.com/xstongxue/best-skills/blob/main/skills/wechat-article-writer/SKILL.md",
+    "raw_url": "https://raw.githubusercontent.com/xstongxue/best-skills/main/skills/wechat-article-writer/SKILL.md",
+    "sha256": "061cb39f1ae941cac30fd8ad25d901274919330fd276f8b5dcf3129f14c3a28a",
+    "bytes": 13014,
+    "checked_at": "2026-10-13",
+    "use": "范文风格提取",
+    "adaptation": "仅取表达方法；覆盖故事化与长篇默认"
+  },
+  {
+    "id": "qiaomu-xinzhiyuan-title",
+    "name": "qiaomu-xinzhiyuan-title",
+    "url": "https://github.com/joeseesun/qiaomu-xinzhiyuan-title/blob/main/SKILL.md",
+    "raw_url": "https://raw.githubusercontent.com/joeseesun/qiaomu-xinzhiyuan-title/main/SKILL.md",
+    "sha256": "9d9a5a8f137e062439bf6e2eedcc7f6be6d4d6e22336cb9a84f4f195fa04e0c9",
+    "bytes": 4385,
+    "checked_at": "2026-10-13",
+    "use": "标题边界",
+    "adaptation": "取事实锚定，不设强情绪默认；没有导入2688条语料"
+  },
+  {
+    "id": "huashu-proofreading",
+    "name": "huashu-proofreading",
+    "url": "https://github.com/alchaincyf/huashu-skills/blob/master/huashu-proofreading/SKILL.md",
+    "raw_url": "https://raw.githubusercontent.com/alchaincyf/huashu-skills/master/huashu-proofreading/SKILL.md",
+    "sha256": "78bab2738283135a6114a8fc371be2f67054545b88ef0e0fdf8fee3b6a5330d1",
+    "bytes": 10615,
+    "checked_at": "2026-10-13",
+    "use": "语言审核",
+    "adaptation": "去套话与重复；不采用私有路径、人设和检测率目标"
+  }
+]

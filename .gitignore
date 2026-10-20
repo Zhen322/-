@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# WorkBuddy AI
+.workbuddy-ai/
+
+# Backups
+*.zip

@@ -1,0 +1,94 @@
+{
+  "draft_id": "571e56d06804423ab91851c759054a71",
+  "created_at": "2026-10-13T04:35:36+00:00",
+  "model": "gpt-6-astra",
+  "references": [
+    {
+      "id": "S1",
+      "source_id": "S1",
+      "article_id": "f8562ee8b38c464a870e93435eb9a830",
+      "title": "不合规，何以谈出海？",
+      "url": "https://auto.sina.cn/2026-09-03/detail-iniqpkrw4280096.d.html?vt=4",
+      "content_kind": "full",
+      "excerpted": false,
+      "used": false
+    },
+    {
+      "id": "S2",
+      "source_id": "S2",
+      "article_id": "075f93f398324acbb6a5477b746a68d6",
+      "title": "星宇股份（601799.SH）",
+      "url": "https://pdf.dfcfw.com/pdf/H3_AP202603231820692897_1.pdf",
+      "content_kind": "snippet",
+      "excerpted": false,
+      "used": true
+    },
+    {
+      "id": "S3",
+      "source_id": "S3",
+      "article_id": "f8669b0b85884e74b7bf4f9de5a5109b",
+      "title": "分析报告 车灯（欧洲・美洲市场篇） - MarkLines全球汽车产业平台",
+      "url": "https://www.marklines.com/cn/report/wsw0231_202609",
+      "content_kind": "full",
+      "excerpted": false,
+      "used": true
+    }
+  ],
+  "editor_notes": "1. 补齐星宇美国建厂及安瑞/WIPAC欧洲定点的公司公告或原始披露，核实投资阶段、客户储备、主体关系与项目边界；目前不能按两项已确认新闻发布。2. 向企业原始披露核对本地化配套要求、技术分工与占比口径；取得同口径现金流数据后，才能补充两家公司的实际投入产出比较。3. 如需加入失败案例，应补充可核验的项目终止、减值或退出披露；文中延期6个月、需求下降30%仅为压力测试假设。",
+  "usage": [
+    "个人笔记：完整读取 371 字符；已审核能力卡：1 张；文章：3 篇。",
+    "S1《不合规，何以谈出海？》：全文 1923 字符",
+    "S2《星宇股份（601799.SH）》：搜索摘要，不能作为技术指标或法规依据",
+    "S3《分析报告 车灯（欧洲・美洲市场篇） - MarkLines全球汽车产业平台》：全文 3253 字符"
+  ],
+  "context": {
+    "notes_path": "/Users/zhenshuai/Desktop/公众号助手/文案助手/wechat-writer/data/notes/我的思考.md",
+    "notes_revision": "67d99fcadb12bbaa2c51c970bda6c721653ae7c4708d2d3dfef8aabd5491b413",
+    "notes_characters": 371,
+    "article_ids": [
+      "f8562ee8b38c464a870e93435eb9a830",
+      "075f93f398324acbb6a5477b746a68d6",
+      "f8669b0b85884e74b7bf4f9de5a5109b"
+    ],
+    "card_ids": [
+      "6586ab1caafe4d4ba11771ca8741c520"
+    ],
+    "articles": [
+      {
+        "id": "f8562ee8b38c464a870e93435eb9a830",
+        "title": "不合规，何以谈出海？",
+        "url": "https://auto.sina.cn/2026-09-03/detail-iniqpkrw4280096.d.html?vt=4",
+        "content_kind": "full"
+      },
+      {
+        "id": "075f93f398324acbb6a5477b746a68d6",
+        "title": "星宇股份（601799.SH）",
+        "url": "https://pdf.dfcfw.com/pdf/H3_AP202603231820692897_1.pdf",
+        "content_kind": "snippet"
+      },
+      {
+        "id": "f8669b0b85884e74b7bf4f9de5a5109b",
+        "title": "分析报告 车灯（欧洲・美洲市场篇） - MarkLines全球汽车产业平台",
+        "url": "https://www.marklines.com/cn/report/wsw0231_202609",
+        "content_kind": "full"
+      }
+    ],
+    "cards": [
+      {
+        "id": "6586ab1caafe4d4ba11771ca8741c520",
+        "title": "具体产品和技术介绍",
+        "approved": true
+      }
+    ],
+    "omitted_approved_cards": 0,
+    "captured_at": "2026-10-13T04:33:52+00:00",
+    "search_query": "category: \"行业动态\" title: \"星宇建美国厂vs安瑞拿欧洲定点：国内车灯企业出海两种路径的风险账，都在这里了\" source_date: \"机工战略微博2026-10-13；PHP中文网2026-09-15\" audience_pain: \"车灯总成厂战略/运营岗、上游器件供应商销售/战略岗，核心痛点是国内车灯企业全球化加速，但不清楚不同规模企业适合的出海路径，不了解重资产建厂与依托海外子公司拿定点两种模式的投入门槛、隐性风险与适配场景，...\" core:",
+    "model_usage": [
+      "个人笔记：完整读取 371 字符；已审核能力卡：1 张；文章：3 篇。",
+      "S1《不合规，何以谈出海？》：全文 1923 字符",
+      "S2《星宇股份（601799.SH）》：搜索摘要，不能作为技术指标或法规依据",
+      "S3《分析报告 车灯（欧洲・美洲市场篇） - MarkLines全球汽车产业平台》：全文 3253 字符"
+    ],
+    "model_editor_notes": "1. 补齐星宇美国建厂及安瑞/WIPAC欧洲定点的公司公告或原始披露，核实投资阶段、客户储备、主体关系与项目边界；目前不能按两项已确认新闻发布。2. 向企业原始披露核对本地化配套要求、技术分工与占比口径；取得同口径现金流数据后，才能补充两家公司的实际投入产出比较。3. 如需加入失败案例，应补充可核验的项目终止、减值或退出披露；文中延期6个月、需求下降30%仅为压力测试假设。"
+  }
+}

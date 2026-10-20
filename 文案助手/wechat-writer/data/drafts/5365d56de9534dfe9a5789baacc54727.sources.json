@@ -1,0 +1,56 @@
+{
+  "draft_id": "5365d56de9534dfe9a5789baacc54727",
+  "created_at": "2026-10-13T03:22:58+00:00",
+  "model": "gpt-6-astra",
+  "references": [
+    {
+      "id": "S1",
+      "source_id": "S1",
+      "article_id": "4398e1c239794427b21a928062bc4ff5",
+      "title": "艾迈斯欧司朗亮相2026上海国际汽车灯具展览会",
+      "url": "https://ams-osram.cn/news/press-releases/ale-2026",
+      "content_kind": "full",
+      "excerpted": false,
+      "used": true
+    }
+  ],
+  "editor_notes": "1. 发布前核对S1原文及产品命名，保留所有技术描述的企业披露归属。2. 如需增加可靠性或量产成熟度判断，应补充对应产品资料、试验条件及试制记录，现有材料不足以作独立验证。",
+  "usage": [
+    "个人笔记：完整读取 371 字符；已审核能力卡：1 张；文章：1 篇。",
+    "S1《艾迈斯欧司朗亮相2026上海国际汽车灯具展览会》：全文 3023 字符"
+  ],
+  "context": {
+    "notes_path": "/Users/zhenshuai/Documents/Codex/2026-10-13/wo-x/outputs/wechat-writer/data/notes/我的思考.md",
+    "notes_revision": "67d99fcadb12bbaa2c51c970bda6c721653ae7c4708d2d3dfef8aabd5491b413",
+    "notes_characters": 371,
+    "article_ids": [
+      "4398e1c239794427b21a928062bc4ff5"
+    ],
+    "card_ids": [
+      "6586ab1caafe4d4ba11771ca8741c520"
+    ],
+    "articles": [
+      {
+        "id": "4398e1c239794427b21a928062bc4ff5",
+        "title": "艾迈斯欧司朗亮相2026上海国际汽车灯具展览会",
+        "url": "https://ams-osram.cn/news/press-releases/ale-2026",
+        "content_kind": "full"
+      }
+    ],
+    "cards": [
+      {
+        "id": "6586ab1caafe4d4ba11771ca8741c520",
+        "title": "具体产品和技术介绍",
+        "approved": true
+      }
+    ],
+    "omitted_approved_cards": 0,
+    "captured_at": "2026-10-13T03:21:43+00:00",
+    "search_query": "",
+    "model_usage": [
+      "个人笔记：完整读取 371 字符；已审核能力卡：1 张；文章：1 篇。",
+      "S1《艾迈斯欧司朗亮相2026上海国际汽车灯具展览会》：全文 3023 字符"
+    ],
+    "model_editor_notes": "1. 发布前核对S1原文及产品命名，保留所有技术描述的企业披露归属。2. 如需增加可靠性或量产成熟度判断，应补充对应产品资料、试验条件及试制记录，现有材料不足以作独立验证。"
+  }
+}

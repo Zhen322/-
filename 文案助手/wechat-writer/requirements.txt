@@ -1,0 +1,3 @@
+# The server and writing engine use Python 3.11+ standard library only.
+# Text-based PDF import; scanned PDF files must be OCRed before upload.
+pypdf==6.20.1

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": "img_c53a5c80dcb0f4b2",
+      "image_url": "https://russells-tech.com/wp-content/uploads/Thermal-Test-Chamber-copy.jpg",
+      "source_url": "https://russells-tech.com/understanding-thermal-test-chambers-and-their-uses",
+      "source_title": "Thermal Testing of Electronics: Methods & Types of Chambers",
+      "description": "搜索来源页面包含该图片，具体画面请预览核对。",
+      "placement": "“可靠性：把器件声明接到整灯条件上”中“评审应把‘可靠’拆成可以检查的内容”段落之后。",
+      "caption": "来源介绍电子产品热测试方法及试验箱类型。",
+      "query": "automotive headlight environmental testing thermal chamber",
+      "license_note": "来源页面未核实授权，发布前确认"
+    },
+    {
+      "id": "img_83c378ca765444c9",
+      "image_url": "https://look.ams-osram.com/transform/83b2ab10-068c-40f3-952c-127b66b57449/OS-Car-Ambient-Illumination-Interior-RGB",
+      "source_url": "https://ams-osram.com/products/product-families/osire",
+      "source_title": "OSIRE™ | ams OSRAM",
+      "description": "OSIRE™ for automotive & mobility applications",
+      "placement": "“控制接口：能寻址，还要能处理异常”中“评审可以沿一条控制链展开”段落之后。",
+      "caption": "艾迈斯欧司朗OSIRE系列面向汽车与出行应用。",
+      "query": "ams OSRAM OSIRE E3731i OSP daisy chain",
+      "license_note": "来源页面未核实授权，发布前确认"
+    },
+    {
+      "id": "img_21b884098fd05f7f",
+      "image_url": "https://www.drivingvisionnews.com/wp-content/uploads/2023/10/121023_I7.jpg",
+      "source_url": "https://www.drivingvisionnews.com/news/2023/10/12/ams-osrams-minileds-on-foil",
+      "source_title": "AMS Osram's MiniLEDs on Foil - DVN",
+      "description": "搜索来源页面包含该图片，具体画面请预览核对。",
+      "placement": "“量产适配：造型自由度要有工艺承接”中“若将这类方案纳入开发”段落之后。",
+      "caption": "DVN报道艾迈斯欧司朗的薄膜MiniLED技术。",
+      "query": "ams OSRAM ALIYOS LED on foil",
+      "license_note": "来源页面未核实授权，发布前确认"
+    },
+    {
+      "id": "img_94e4ee9485bac7c9",
+      "image_url": "https://backend.weiss-technik.com/webapp/weisstechnik/products/environmental-simulation/headlight-test-rig/2098/image-thumb__2098__WebappProductDetail/headlight-test-rig-1.png",
+      "source_url": "https://www.weiss-technik.com/environmental-simulation/en/products/detail/headlight-test-rig-for-the-automotive-industry~p3865",
+      "source_title": "Headlight Test Rig For Testing Car Headlights | Weiss Technik – Environmental Simulation",
+      "description": "搜索来源页面包含该图片，具体画面请预览核对。",
+      "placement": "“可靠性：把器件声明接到整灯条件上”中“评审应把‘可靠’拆成可以检查的内容”段落之后。",
+      "caption": "伟思富奇介绍用于汽车前照灯测试的试验台。",
+      "query": "automotive headlight environmental testing thermal chamber",
+      "license_note": "来源页面未核实授权，发布前确认"
+    },
+    {
+      "id": "img_307ffc830016b87d",
+      "image_url": "https://look.ams-osram.com/transform/129ecdce-1a9f-4092-9d7d-0d42dfdc7b2d/amsOSRAM_OSP_OSIRE_E3731i",
+      "source_url": "https://ams-osram.com/news/press-releases/osire-e3731i-rgb-led",
+      "source_title": "OSIRE® E3731i intelligent RGB LED | ams OSRAM",
+      "description": "搜索来源页面包含该图片，具体画面请预览核对。",
+      "placement": "“控制接口：能寻址，还要能处理异常”中“评审可以沿一条控制链展开”段落之后。",
+      "caption": "艾迈斯欧司朗介绍OSIRE E3731i智能RGB LED。",
+      "query": "ams OSRAM OSIRE E3731i OSP daisy chain",
+      "license_note": "来源页面未核实授权，发布前确认"
+    },
+    {
+      "id": "img_236584cb33003632",
+      "image_url": "https://www.led-professional.com/all/new-led-on-foil-technology-from-ams-osram-creates-unprecedented-effects-in-automotive-lighting/@@images/image-1200-d9add601a8f567184539c92ed26e59b7.png",
+      "source_url": "https://www.led-professional.com/all/new-led-on-foil-technology-from-ams-osram-creates-unprecedented-effects-in-automotive-lighting",
+      "source_title": "New LED-on-Foil Technology from ams OSRAM Creates Unprecedented Effects in Automotive Lighting — LED professional - LED Lighting Technology, Application Magazine",
+      "description": "搜索来源页面包含该图片，具体画面请预览核对。",
+      "placement": "“量产适配：造型自由度要有工艺承接”中“若将这类方案纳入开发”段落之后。",
+      "caption": "来源报道艾迈斯欧司朗薄膜LED技术在汽车照明中的应用。",
+      "query": "ams OSRAM ALIYOS LED on foil",
+      "license_note": "来源页面未核实授权，发布前确认"
+    }
+  ],
+  "requested_count": 6,
+  "model": "gpt-6-astra",
+  "created_at": "2026-10-13T04:20:52+00:00",
+  "revision": "2743e73e1bee4ef1f6c11ebfb0c4523e83ce0ea28b9781c622d78cc4c54d52d9",
+  "queries": [
+    "automotive headlight environmental testing thermal chamber",
+    "ams OSRAM OSIRE E3731i OSP daisy chain",
+    "ams OSRAM ALIYOS LED on foil"
+  ],
+  "warnings": [
+    "搜索还返回了 10 张未提供明确来源页面的图片，已排除，未猜测来源。",
+    "图片未下载或逐张视觉核验，按搜索描述与来源相关性筛选；建议图注和插入位置请结合预览确认。"
+  ],
+  "stale": false
+}

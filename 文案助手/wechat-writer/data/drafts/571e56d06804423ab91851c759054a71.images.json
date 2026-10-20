@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": "img_10231a68e8a9a503",
+      "image_url": "https://loyolight.com/wp-content/uploads/2026/08/image-33.webp",
+      "source_url": "https://loyolight.com/car-headlight-manufacturing-process",
+      "source_title": "How Car Headlights Are Made: Manufacturing Process",
+      "description": "搜索来源页面包含该图片，具体画面请预览核对。",
+      "placement": "“一、先明确两种路径买到了什么”中“两条路径也可以组合”段落之后。",
+      "caption": "来源主题：汽车前照灯的制造流程。",
+      "query": "automotive headlamp factory assembly line equipment",
+      "license_note": "来源页面未核实授权，发布前确认"
+    },
+    {
+      "id": "img_672a4217fe2d4a59",
+      "image_url": "https://usersolutions.com/og.jpg",
+      "source_url": "https://usersolutions.com/blog/lot-tracking-traceability",
+      "source_title": "Lot Traceability in Manufacturing: Forward and Backward Tracking | User Solutions",
+      "description": "搜索来源页面包含该图片，具体画面请预览核对。",
+      "placement": "“二、投入产出对比：四个维度统一口径”中“单件到厂成本”公式之后。",
+      "caption": "来源主题：制造过程中的批次正向与反向追溯。",
+      "query": "automotive components warehouse barcode traceability incoming inspection",
+      "license_note": "来源页面未核实授权，发布前确认"
+    },
+    {
+      "id": "img_3613ca62a7b934b6",
+      "image_url": "https://www.asahi-optics.com/files/asahi/news/Exploded-view-of-automotive-lighting-lens.jpg",
+      "source_url": "https://www.asahi-optics.com/news/blog/automotive-lighting-optics-from-plastic-optical-mold-making-to-mass-production.html",
+      "source_title": "Automotive Lighting Optics: Precision Mold Making & Production",
+      "description": "搜索来源页面包含该图片，具体画面请预览核对。",
+      "placement": "“四、技术输出不能只看一个占比”最后一段之后。",
+      "caption": "来源主题：汽车照明光学的精密模具制造与生产。",
+      "query": "automotive headlamp optical design photometric testing laboratory",
+      "license_note": "来源页面未核实授权，发布前确认"
+    },
+    {
+      "id": "img_e0a9854ca7ebdf0d",
+      "image_url": "https://image.chukouplus.com/upload/C_6175/file/20250703/ae984bd88426523a92c49db4d18eab79.jpg",
+      "source_url": "https://www.autolightsline.com/news/how-to-design-an-assembly-line-for-headlamps-and-rear-combination-lamps.html",
+      "source_title": "How to Design an Assembly Line for Headlamps and Rear Combination Lamps",
+      "description": "搜索来源页面包含该图片，具体画面请预览核对。",
+      "placement": "“一、先明确两种路径买到了什么”中“两条路径也可以组合”段落之后。",
+      "caption": "来源主题：前照灯与后组合灯的装配线设计。",
+      "query": "automotive headlamp factory assembly line equipment",
+      "license_note": "来源页面未核实授权，发布前确认"
+    },
+    {
+      "id": "img_d2c667c6d1dbb5a5",
+      "image_url": "https://cdn.prod.website-files.com/69e8e490b0d96f2c8060a9f5/6aa9b5b948d070ce480e2510_6aa9b3ca3fdc18860bc4faf4_manufacturing-traceability-114-opt.webp",
+      "source_url": "https://www.ahearn.com/blog/manufacturing-traceability-101-meeting-compliance-and-quality-standards",
+      "source_title": "Manufacturing traceability 101 for compliance teams",
+      "description": "搜索来源页面包含该图片，具体画面请预览核对。",
+      "placement": "“二、投入产出对比：四个维度统一口径”中“单件到厂成本”公式之后。",
+      "caption": "来源主题：面向合规团队的制造追溯基础知识。",
+      "query": "automotive components warehouse barcode traceability incoming inspection",
+      "license_note": "来源页面未核实授权，发布前确认"
+    },
+    {
+      "id": "img_9ada319f34796171",
+      "image_url": "https://www.intertek.com/contentassets/f9d0ac1248d24914b9ccb41f4cb576e9/products-transportation-automotive-lighting-card.jpg",
+      "source_url": "https://www.intertek.com/automotive/lighting-and-photometric-testing",
+      "source_title": "Automotive Lighting and Headlamps Testing",
+      "description": "搜索来源页面包含该图片，具体画面请预览核对。",
+      "placement": "“四、技术输出不能只看一个占比”最后一段之后。",
+      "caption": "来源主题：汽车照明与前照灯测试。",
+      "query": "automotive headlamp optical design photometric testing laboratory",
+      "license_note": "来源页面未核实授权，发布前确认"
+    }
+  ],
+  "requested_count": 6,
+  "model": "gpt-6-astra",
+  "created_at": "2026-10-13T04:36:53+00:00",
+  "revision": "7315723f70c11fbd80da4d8ad2b3a2dbfc21d7c49be6405856d15792f523ac9c",
+  "queries": [
+    "automotive headlamp factory assembly line equipment",
+    "automotive components warehouse barcode traceability incoming inspection",
+    "automotive headlamp optical design photometric testing laboratory"
+  ],
+  "warnings": [
+    "搜索还返回了 10 张未提供明确来源页面的图片，已排除，未猜测来源。",
+    "图片未下载或逐张视觉核验，按搜索描述与来源相关性筛选；建议图注和插入位置请结合预览确认。"
+  ],
+  "stale": false
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": "img_8ee35050424c7755",
+      "image_url": "https://www.federalregister.gov/assets/open_graph_site_banner.png",
+      "source_url": "https://www.federalregister.gov/documents/2024/12/30/2024-31141/federal-motor-vehicle-safety-standards-lamps-reflective-devices-and-associated-equipment-adaptive",
+      "source_title": "Federal Register :: Federal Motor Vehicle Safety Standards; Lamps, Reflective Devices, and Associated Equipment, Adaptive Driving Beam Headlamps",
+      "description": "搜索来源页面包含该图片，具体画面请预览核对。",
+      "placement": "“先辨明规则状态：拟更新不等于功能已放开”中，说明2022年FMVSS 108已允许使用ADB系统的段落之后。",
+      "caption": "来源主题：美国联邦机动车安全标准中的ADB前照灯规则。",
+      "query": "NHTSA adaptive driving beam headlamp track testing",
+      "license_note": "来源页面未核实授权，发布前确认"
+    },
+    {
+      "id": "img_a3a47a3c99e55ea3",
+      "image_url": "https://www.factmr.com/images/reports/matrix-led-headlamp-modules-market-market-value-analysis.webp",
+      "source_url": "https://www.factmr.com/report/matrix-led-headlamp-modules-market",
+      "source_title": "Matrix LED Headlamp Modules Market Size, Share & Forecast to 2036",
+      "description": "搜索来源页面包含该图片，具体画面请预览核对。",
+      "placement": "“技术适配要核对到功能，硬件配置只是起点”中，解释ADB选择性调暗光束区域的段落之后。",
+      "caption": "来源主题：矩阵式LED前照灯模块市场及至2036年的预测。",
+      "query": "matrix LED headlight module adaptive beam pattern",
+      "license_note": "来源页面未核实授权，发布前确认"
+    },
+    {
+      "id": "img_f843e32644a0d675",
+      "image_url": "https://www.lisungroup.com/wp-content/uploads/2022/04/goniophotometer_LSG-6000_AL2-aspect-ratio-450x300-1-400x267.jpg",
+      "source_url": "https://www.lisungroup.com/news/technology-news/gonio-photometric-procedure-for-light-measurement.html",
+      "source_title": "Gonio photometric procedure for light measurement - LISUN",
+      "description": "搜索来源页面包含该图片，具体画面请预览核对。",
+      "placement": "“为资料缺口明确补充责任与评审节点”中，明确资料补充责任、适用性确认与项目评审时间的段落之后。",
+      "caption": "来源主题：用于光测量的分布光度测量流程。",
+      "query": "automotive headlamp photometric testing laboratory goniophotometer",
+      "license_note": "来源页面未核实授权，发布前确认"
+    },
+    {
+      "id": "img_5267356bee483d24",
+      "image_url": "https://www.federalregister.gov/images/fbdisplay.jpg",
+      "source_url": "https://www.federalregister.gov/documents/2024/12/30/2024-31141/federal-motor-vehicle-safety-standards-lamps-reflective-devices-and-associated-equipment-adaptive",
+      "source_title": "Federal Register :: Federal Motor Vehicle Safety Standards; Lamps, Reflective Devices, and Associated Equipment, Adaptive Driving Beam Headlamps",
+      "description": "搜索来源页面包含该图片，具体画面请预览核对。",
+      "placement": "“先辨明规则状态：拟更新不等于功能已放开”中，说明2022年FMVSS 108已允许使用ADB系统的段落之后。",
+      "caption": "来源主题：美国联邦机动车安全标准中的ADB前照灯规则。",
+      "query": "NHTSA adaptive driving beam headlamp track testing",
+      "license_note": "来源页面未核实授权，发布前确认"
+    },
+    {
+      "id": "img_c17f95f3d878885b",
+      "image_url": "https://www.shine.lighting/image/ml/084459961.jpg",
+      "source_url": "https://www.shine.lighting/threads/matrix-led-headlights-redefine-adaptive-front-lighting-with-smart-high-beam-technology.79",
+      "source_title": "Matrix LED Headlights: Redefine Adaptive Front-lighting With Smart High Beam Technology",
+      "description": "搜索来源页面包含该图片，具体画面请预览核对。",
+      "placement": "“技术适配要核对到功能，硬件配置只是起点”中，解释ADB选择性调暗光束区域的段落之后。",
+      "caption": "来源主题：矩阵式LED前照灯与智能远光技术。",
+      "query": "matrix LED headlight module adaptive beam pattern",
+      "license_note": "来源页面未核实授权，发布前确认"
+    },
+    {
+      "id": "img_9060e5d280756f94",
+      "image_url": "https://www.instrumentsystems.com/fileadmin/_processed_/2/0/csm_AMS-6000-7000_Goniometer_Automotive_683x626px_new_12d3ca4090.jpg",
+      "source_url": "https://www.instrumentsystems.com/en/products/goniophotometer-for-automotive-lighting",
+      "source_title": "Goniophotometer for Automotive Lighting – Instrument Systems",
+      "description": "搜索来源页面包含该图片，具体画面请预览核对。",
+      "placement": "“为资料缺口明确补充责任与评审节点”中，明确资料补充责任、适用性确认与项目评审时间的段落之后。",
+      "caption": "来源主题：用于汽车照明测量的分布光度计。",
+      "query": "automotive headlamp photometric testing laboratory goniophotometer",
+      "license_note": "来源页面未核实授权，发布前确认"
+    }
+  ],
+  "requested_count": 6,
+  "model": "gpt-6-astra",
+  "created_at": "2026-10-13T11:55:59+00:00",
+  "revision": "d8bf5ea9ca4ea658422d535de0ae054a9ae54b29909ae78558fdda577999eeff",
+  "queries": [
+    "NHTSA adaptive driving beam headlamp track testing",
+    "matrix LED headlight module adaptive beam pattern",
+    "automotive headlamp photometric testing laboratory goniophotometer"
+  ],
+  "warnings": [
+    "搜索还返回了 15 张未提供明确来源页面的图片，已排除，未猜测来源。",
+    "图片未下载或逐张视觉核验，按搜索描述与来源相关性筛选；建议图注和插入位置请结合预览确认。"
+  ],
+  "stale": false
+}
