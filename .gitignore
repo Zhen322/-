@@ -1,14 +1,34 @@
 # macOS
 .DS_Store
+Thumbs.db
 
 # Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+.venv/
+venv/
 
 # WorkBuddy AI
 .workbuddy-ai/
 
-# Backups
+# Backups（注意：已追踪的历史 zip 不受影响，仍保留在库中）
 *.zip
+
+# ===== 敏感配置与运行时数据（密钥/数据库/生成图片，绝不提交）=====
+**/data/settings.json
+**/data/*.sqlite3
+**/data/media/
+
+# ===== 运行日志与临时文件 =====
+*.log
+**/pipeline_log.txt
+**/pipeline2_log.txt
+**/resume_log.txt
+**/job_plan.txt
+**/job*.txt
+**/nid*.txt
+
+# ===== 本地嵌套 git 备份（仅本机，不提交）=====
+.git_backup_crossplatform/

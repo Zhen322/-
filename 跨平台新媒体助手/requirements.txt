@@ -1,0 +1,7 @@
+# 运行依赖（Python 3.9+，推荐 3.11/3.12/3.13）
+Pillow>=10.0.0
+# 说明：
+#  - LLM 默认使用 DeepSeek（OpenAI 兼容接口），无需额外 SDK。
+#  - 搜索默认使用百度网页/图片（标准库 urllib 即可）；如配置 TAVILY_API_KEY
+#    可获得更高质量的搜索结果（pip install tavily-python，可选）。
+#  - 发布默认使用标准库实现 X OAuth 1.0a 与微信公众号接口，无需额外依赖。

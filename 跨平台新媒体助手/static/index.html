@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>跨平台新媒体助手 · 车灯产业</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<div id="app">
+  <aside class="sidebar">
+    <div class="brand">
+      <div class="brand-mark">跨</div>
+      <div class="brand-text">
+        <strong>跨平台新媒体助手</strong>
+        <span>汽车与车灯产业</span>
+      </div>
+    </div>
+    <nav id="nav">
+      <button data-view="brain" class="nav-item nav-item--brain">智能体</button>
+      <button data-view="research" class="nav-item">资料库</button>
+      <button data-view="project" class="nav-item">项目与制作</button>
+      <button data-view="publish" class="nav-item">发布管理</button>
+      <button data-view="settings" class="nav-item nav-item--bottom">设置</button>
+    </nav>
+  </aside>
+
+  <main class="main">
+    <header class="topbar">
+      <div id="view-title" class="view-title">运营规划</div>
+      <div class="topbar-right">
+        <span id="llm-status" class="pill pill--muted">模型未连接</span>
+        <span id="global-status" class="pill pill--muted">加载中…</span>
+      </div>
+    </header>
+    <section id="content" class="content"></section>
+  </main>
+</div>
+
+<div id="toast" class="toast"></div>
+<div id="modal" class="modal hidden">
+  <div class="modal-card">
+    <div class="modal-head">
+      <span id="modal-title"></span>
+      <button id="modal-close" class="icon-btn">×</button>
+    </div>
+    <div id="modal-body" class="modal-body"></div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

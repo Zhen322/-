@@ -1,0 +1,28 @@
+# ===== 敏感配置与运行时数据（绝不提交：含真实 API Key、数据库、生成图片）=====
+data/*
+!data/.gitkeep
+
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# ===== 运行日志与临时文件 =====
+*.log
+pipeline_log.txt
+pipeline2_log.txt
+resume_log.txt
+job_plan.txt
+job*.txt
+nid*.txt
+
+# ===== 系统 / 编辑器 / 备份 =====
+.DS_Store
+Thumbs.db
+*.zip
+*.bak
+.vscode/
+.idea/
